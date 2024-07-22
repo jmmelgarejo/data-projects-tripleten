@@ -1,6 +1,6 @@
 # data-projects-tripleten
 
-## Telecom Churn Predictive Model
+## 16. Telecom Churn Predictive Model
 
 The final project for TripleTen's Data Science and Programming Bootcamp. The project required the creation of a project plan, an analysis of customer data trends, and building and testing predictive models in order to forecast customer churn in a Telecom dataset.
 
